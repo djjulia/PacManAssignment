@@ -1,4 +1,4 @@
-PacMan Adventure 🕹️
+🕹️ PacMan Adventure 🕹️
 Welcome to the PacMan Adventure project! 🎉 In this exciting escapade, we tamed the wild PacMan and made it dance across your screen. Let's dive into the fun details:
 
 Challenge Highlights 🚀
